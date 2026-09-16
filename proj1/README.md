@@ -11,7 +11,7 @@ proj1/
 ├── main.py            # janela, cena e teclado
 ├── geometria.py       # primitivas: cubo, esfera, cilindro...
 ├── objetos.py         # monta cada objeto
-├── rato.py            # o rato, montado a parte
+├── rato.py            # o rato, montado a parte depois de rascunhar no Blender
 ├── transformacoes.py  # matrizes para transformacoes
 └── gl_utils.py        # shaders, vbo, draw calls
 ```
