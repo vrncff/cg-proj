@@ -1,6 +1,6 @@
 <p align="center"><img src="img.png" width="500"></p>
 
-bagunça.
+ratinho.
 
 Requisitos: cena 3D com primitivas próprias, transformações e interação por teclado ([enunciado](enunciado-proj1.pdf)).
 
