@@ -4,7 +4,7 @@ bagunça.
 
 Requisitos: cena 3D com primitivas próprias, transformações e interação por teclado ([enunciado](enunciado-proj1.pdf)).
 
-Cena: uma mesa com monitor CRT, um rato na frente e um relógio na parede.
+Cena: uma mesa com monitor CRT (escala com J/K, translação do cursor com setas), um rato na frente (rotação com A/S) e um relógio na parede.
 
 ```
 proj1/
